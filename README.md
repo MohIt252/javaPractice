@@ -1,0 +1,2 @@
+# javaPractice
+Basic java codes
